@@ -1,7 +1,7 @@
 <b>Προγραμματισμός Έργου</b>
 <table>
 <tr>
-<td>-</td>
+<td>Εβδομάδες</td>
 <td>1η</td>
 <td>2η</td>
 <td>3η</td>
@@ -17,7 +17,7 @@
 <td>13η</td>
 </tr>
 <tr>
-<td></td>
+<td>Σχεδίαση ερμαρίων σε 3D</td>
 <td></td>
 <td></td>
 <td></td>
@@ -33,7 +33,7 @@
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>Εγκατάσταση Raspberry Pi</td>
 <td></td>
 <td></td>
 <td></td>
