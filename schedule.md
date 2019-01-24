@@ -17,7 +17,7 @@
 <td>13η</td>
 </tr>
 <tr>
-<td>Σχεδίαση ερμαρίων σε 3D</td>
+<td>E01</td>
 <td></td>
 <td></td>
 <td></td>
@@ -33,7 +33,7 @@
 <td></td>
 </tr>
 <tr>
-<td>Εγκατάσταση Raspberry Pi</td>
+<td>E02</td>
 <td></td>
 <td></td>
 <td></td>
@@ -49,23 +49,7 @@
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
+<td>E03</td>
 <td></td>
 <td></td>
 <td></td>
@@ -81,7 +65,135 @@
 <td></td>
 </tr>
 <tr>
+<td>E04</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>E05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>E06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>E07</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>E08</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>E09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>E10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>E11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>E12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -97,3 +209,18 @@
 <td></td>
 </tr>
 </table>
+
+
+Ε01 - Σχεδίαση ερμαρίων σε 3D
+Ε02 - Εγκατάσταση Raspberry Pi (Λειτουργικό Raspbian)
+Ε03 - Εγκατάσταση Raspberry Pi (Apache Server, mySQL, PHPmyAdmin)
+Ε04 - 
+Ε05 - 
+Ε06 - 
+Ε07 - 
+Ε08 - 
+Ε09 - 
+Ε10 - 
+Ε11 - 
+Ε12 - 
+
