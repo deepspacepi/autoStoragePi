@@ -211,16 +211,17 @@
 </table>
 
 
-Ε01 - Σχεδίαση ερμαρίων σε 3D
-Ε02 - Εγκατάσταση Raspberry Pi (Λειτουργικό Raspbian)
-Ε03 - Εγκατάσταση Raspberry Pi (Apache Server, mySQL, PHPmyAdmin)
-Ε04 - 
-Ε05 - 
-Ε06 - 
-Ε07 - 
-Ε08 - 
-Ε09 - 
-Ε10 - 
-Ε11 - 
-Ε12 - 
+Ε01 - Σχεδίαση ερμαρίων σε 3D</br>
+Ε02 - Εγκατάσταση Raspberry Pi (Λειτουργικό Raspbian)</br>
+Ε03 - Εγκατάσταση Raspberry Pi (Apache Server, mySQL, PHPmyAdmin)</br>
+Ε04 - </br>
+Ε05 - </br>
+Ε06 - </br>
+Ε07 - </br>
+Ε08 - </br>
+Ε09 - </br>
+Ε10 - </br>
+Ε11 - </br>
+Ε12 - </br>
+
 
