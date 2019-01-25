@@ -106,7 +106,7 @@
 <td>Χ</td>
 <td>Χ</td>
 <td>Χ</td>
-<td></td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -135,7 +135,7 @@
 <td>Χ</td>
 <td>Χ</td>
 <td>Χ</td>
-<td></td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -169,7 +169,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>Χ</td>
 <td>Χ</td>
 <td>Χ</td>
 <td>Χ</td>
@@ -183,7 +183,7 @@
 <td>Χ</td>
 <td>Χ</td>
 <td>Χ</td>
-<td></td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -197,12 +197,12 @@
 <td></td>
 <td></td>
 <td></td>
-<td>Χ</td>
-<td>Χ</td>
-<td>Χ</td>
-<td>Χ</td>
-<td>Χ</td>
 <td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -217,7 +217,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>Χ</td>
 <td>Χ</td>
 <td>Χ</td>
 <td>Χ</td>
@@ -252,7 +252,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>Χ</td>
 <td>Χ</td>
 <td>Χ</td>
 </tr>
