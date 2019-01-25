@@ -1,7 +1,7 @@
 <b>Προγραμματισμός Έργου</b>
 <table>
 <tr>
-<td>Εβδομάδες</td>
+<td></td>
 <td>1η</td>
 <td>2η</td>
 <td>3η</td>
@@ -18,8 +18,8 @@
 </tr>
 <tr>
 <td>EΕ01</td>
-<td>Χ</td>
-<td>Χ</td>
+<td bgcolor="blue">Χ</td>
+<td bgcolor="blue">Χ</td>
 <td></td>
 <td></td>
 <td></td>
