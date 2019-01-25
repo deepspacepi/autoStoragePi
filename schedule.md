@@ -275,6 +275,8 @@
 </table>
 
 
+<b>Ενότητες Εργασίας</b>
+
 Ε01 - Εγκατάσταση Raspberry Pi (Λειτουργικό Raspbian)</br>
 Ε02 - Εγκατάσταση Raspberry Pi (Apache Server, mySQL, PHPmyAdmin)</br>
 Ε03 - Σχεδίαση ερμαρίων σε 3D</br>
