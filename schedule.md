@@ -251,7 +251,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>X</td>
 <td>Χ</td>
 <td>Χ</td>
 <td>Χ</td>
