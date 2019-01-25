@@ -18,9 +18,9 @@
 </tr>
 <tr>
 <td>E01</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -36,9 +36,9 @@
 <td>E02</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -50,8 +50,8 @@
 </tr>
 <tr>
 <td>E03</td>
-<td></td>
-<td></td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -68,8 +68,8 @@
 <td>E04</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -212,9 +212,9 @@
 
 
 Ε01 - Σχεδίαση ερμαρίων σε 3D</br>
-Ε02 - Εγκατάσταση Raspberry Pi (Λειτουργικό Raspbian)</br>
-Ε03 - Εγκατάσταση Raspberry Pi (Apache Server, mySQL, PHPmyAdmin)</br>
-Ε04 - </br>
+Ε02 - Κατασκευή Ερμαρίων</br>
+Ε03 - Εγκατάσταση Raspberry Pi (Λειτουργικό Raspbian)</br>
+Ε04 - Εγκατάσταση Raspberry Pi (Apache Server, mySQL, PHPmyAdmin)</br>
 Ε05 - </br>
 Ε06 - </br>
 Ε07 - </br>
