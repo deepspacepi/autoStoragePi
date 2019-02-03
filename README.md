@@ -15,56 +15,134 @@ https://www.youtube.com/watch?v=QetS5n2ZE5k&t=109s
 
 Απαιτούμενος εξοπλισμός είναι ο εξής :
 
-Μηχανισμός Α
-- Ένα Raspberry Zero W
-- Ένα Step Motor
-- Module οδήγησης Servo Motor
-- Αισθητήρας απόστασης
-- Επαναφορτιζόμενη μπαταρία
-- Παρελκόμενα (Καλώδια, πυκνωτές, αντιστάσεις, SD Card, Θήκη Raspberry)
+<table>
+  <tr>
+    <td>Α/Α</td>
+    <td>Ονομασία</td>
+    <td>Ποσότητα</td>
+    <td>Τιμή Τεμαχίου</td>
+    <td>Σύνολο Τιμής</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>
+      Raspberry Pi 3 - Model B+</br>
+      https://grobotronics.com/raspberry-pi-3-model-b-el.html
+    </td>
+    <td>1</td>
+    <td>41,90 €</td>
+    <td>41,90 €</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Κάρτα μνήμης microSDHC 16GB Class 10</br>
+    https://grobotronics.com/microsdhc-16gb-class-10-sandisk-ultra-sdsquar-sdsquar-016g-gn6ma.html
+    </td>
+    <td>1</td>
+    <td>8,90 €</td>
+    <td>8,90 €</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Pimoroni Raspberry Pi Zero W Starter Kit</br>
+    https://grobotronics.com/pimoroni-raspberry-pi-zero-w-starter-kit.html
+    </td>
+    <td>2</td>
+    <td>42,90 €</td>
+    <td>85,80 €</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Dual Motor Driver Module L298N</br>
+    https://grobotronics.com/dual-motor-driver-module-l298n.html
+  </td>
+    <td>4</td>
+    <td>4,50 €</td>
+    <td>18,00 €</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Βηματικός Κινητήρας 0.35kg.cm 5V</br>
+    https://grobotronics.com/stepper-motor-0.35kg.cm.html
+    </td>
+    <td>3</td>
+    <td>2,50€</td>
+    <td>7,50 €</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Adafruit Αισθητήρας Απόστασης/Φωτός/RGB/Χειρονομίας - APDS9960<br/>
+      https://grobotronics.com/adafruit-apds9960-proximity-light-rgb-and-gesture-sensor.html
+  </td>
+    <td>1</td>
+    <td>9,50 €</td>
+    <td>9,50 €</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Precision Shaft - D8mm x L500mm</br>
+https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
+    <td>1</td>
+    <td>6,20 €</td>
+    <td>6,20 €</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Γραμμικό Ρουλεμάν με Βάση - 8mm - SC8UU</br>
+    https://grobotronics.com/linear-bearing-platform-small-8mm-diameter-sc8uu.html
+    </td>
+    <td>1</td>
+    <td>3,80 €</td>
+    <td>3,80 €</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Linear Rail Shaft Guide/Support - 8mm Diameter - SK8</br>
+    https://grobotronics.com/linear-rail-shaft-guide-support-8mm-diameter-sk8.html</td>
+    <td>2</td>
+    <td>2,40 €</td>
+    <td>4,80 €</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Πλακέτα Δοκιμών 400 Οπές - Άσπρη<br/>
+  https://grobotronics.com/breadboard-400-tie-point-white-half-size.html</td>
+    <td>1</td>
+    <td>3,20 €</td>
+    <td>3,20 €</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Breadboard Jumper Wires Male to Male - Pack of 65</br>
+    https://grobotronics.com/breadboard-jumper-wires-male-to-male-pack-of-65.html
+    </td>
+    <td>1</td>
+    <td>3,60 €</td>
+    <td>3,60 €</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Jumper Wires 15cm Female to Male - Pack of 10<br/>
+      https://grobotronics.com/jumper-wires-15cm-female-to-male-pack-of-10.html
+  </td>
+    <td>2</td>
+    <td>1,80 €</td>
+    <td>3,60 €</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Jumper Wires 15cm Female to Female - Pack of 10<br/>
+      https://grobotronics.com/jumper-wires-15cm-female-to-female-pack-of-10.html
+  </td>
+    <td>2</td>
+    <td>1,80 €</td>
+    <td>3,60 €</td>
+  </tr>
+  <tr>
+    <td colspan="4">Συνολική Τιμή</td>
+    <td>200,40 €</td>
+  </tr>
+</table>
 
-Εκτιμώμενο Κόστος (80 ευρώ)
-
-Μηχανισμός Β
-- Ένα Raspberry Pi 3
-- Τρία Step Motor
-- Module οδήγησης Step Motor
-- Επαναφορτιζόμενη μπαταρία
-- Αισθητήρας απόστασης
-- 2 Αισθητήρες χρώματος
-- Παρελκόμενα (Καλώδια, πυκνωτές, αντιστάσεις, SD Card, Θήκη Raspberry)
-
-Εκτιμώμενο Κόστος (150 ευρώ)
-
-Μηχανισμός Γ
-- Ένα Raspberry Zero W
-- Ένα Step Motor
-- Module οδήγησης Servo Motor
-- Αισθητήρας απόστασης
-- Επαναφορτιζόμενη μπαταρία
-- Παρελκόμενα (Καλώδια, πυκνωτές, αντιστάσεις, SD Card, Θήκη Raspberry)
-
-Εκτιμώμενο Κόστος (80 ευρώ)
-
-
-Υλικά που θα απαιτηθούν για την κατασκευή :
-Αυτήν την στιγμή το σχολείο μας δεν διαθέτει 3D εκτυπωτή, αλλά πιθανόν να προμηθευτεί στο μέλλον. Στην περίπτωση που δεν χρησιμοποιηθεί 3D εκτυπωτής θα χρησιμοποιηθούν άλλα μεταλικά υλικά.
-- PLA για 3D εκτυπωτή.
-- Αγορά μηχανικών μερών (μεταλλικοί άξονες, μπουλόνια, τροχαλίες)
-
-Εκτιμώμενο Κόστος (150 ευρώ)
-
-
-Επιπλέον απαιτούμενα υλικά εργαλεία
-- Πιστόλι σιλικόνης
-- Stick σιλικόνης
-- Tire up
-- Υλικά για ηλεκτρολογική κόλληση
-
-Εκτιμώμενο Κόστος (70 ευρώ)
-
-Συνολικό εκτιμώμενο κόστος (450 ευρώ)
-Θα γινει προσπάθεια χρήσης ανακυκλώσιμων υλικών (πχ παλιούς εκτυπωτές, cd-rom) οπότε είναι πιθανόν να κατέβει το κόστος.
-
-Αλλαγές
-
+Θα χρησιμοποιηθούν επιπλέον υλικά από παλαιούς εκτυπωτές και CD-ROM.</br>
+Για την κατασκευή θα χρησιμοποιηθεί επίσης ξύλο και χαρτόνι.
