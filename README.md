@@ -105,25 +105,29 @@ https://www.youtube.com/watch?v=QetS5n2ZE5k&t=109s
     <td>3,60 €</td>
   </tr>
   <tr>
-    <td>Α/Α</td>
-    <td>Ονομασία</td>
-    <td>Ποσότητα</td>
-    <td>Τιμή €</td>
-    <td>Σύνο €</td>
+    <td>10</td>
+    <td>Precision Shaft - D8mm x L500mm</br>
+https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
+    <td>1</td>
+    <td>6,20 €</td>
+    <td>6,20 €</td>
   </tr>
   <tr>
-    <td>Α/Α</td>
-    <td>Ονομασία</td>
-    <td>Ποσότητα</td>
-    <td>Τιμή €</td>
-    <td>Σύνο €</td>
+    <td>11</td>
+    <td>Γραμμικό Ρουλεμάν με Βάση - 8mm - SC8UU</br>
+    https://grobotronics.com/linear-bearing-platform-small-8mm-diameter-sc8uu.html
+    </td>
+    <td>1</td>
+    <td>3,80 €</td>
+    <td>3,80 €</td>
   </tr>
   <tr>
-    <td>Α/Α</td>
-    <td>Ονομασία</td>
-    <td>Ποσότητα</td>
-    <td>Τιμή €</td>
-    <td>Σύνο €</td>
+    <td>12</td>
+    <td>Linear Rail Shaft Guide/Support - 8mm Diameter - SK8</br>
+    https://grobotronics.com/linear-rail-shaft-guide-support-8mm-diameter-sk8.html</td>
+    <td>2</td>
+    <td>2,40 €</td>
+    <td>4,80 €</td>
   </tr>
 </table>
 Μηχανισμός Α
