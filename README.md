@@ -80,6 +80,15 @@ https://www.youtube.com/watch?v=QetS5n2ZE5k&t=109s
   </tr>
   <tr>
     <td>7</td>
+    <td>Αισθητήρας Υπερήχων 2 - 400cm SR04<br/>
+      https://grobotronics.com/ultrasonic-sensor-sr04.html
+  </td>
+    <td>2</td>
+    <td>2,50 €</td>
+    <td>5,00 €</td>
+  </tr>
+  <tr>
+    <td>8</td>
     <td>Precision Shaft - D8mm x L500mm</br>
 https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
     <td>1</td>
@@ -87,7 +96,7 @@ https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
     <td>6,20 €</td>
   </tr>
   <tr>
-    <td>8</td>
+    <td>9</td>
     <td>Γραμμικό Ρουλεμάν με Βάση - 8mm - SC8UU</br>
     https://grobotronics.com/linear-bearing-platform-small-8mm-diameter-sc8uu.html
     </td>
@@ -96,7 +105,7 @@ https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
     <td>3,80 €</td>
   </tr>
   <tr>
-    <td>9</td>
+    <td>10</td>
     <td>Linear Rail Shaft Guide/Support - 8mm Diameter - SK8</br>
     https://grobotronics.com/linear-rail-shaft-guide-support-8mm-diameter-sk8.html</td>
     <td>2</td>
@@ -104,7 +113,15 @@ https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
     <td>4,80 €</td>
   </tr>
   <tr>
-    <td>10</td>
+    <td>11</td>
+    <td>OpenBuilds Universal L Bracket - Double Natural</br>
+    https://grobotronics.com/openbuilds-universal-l-bracket-double.html</td>
+    <td>4</td>
+    <td>1,40 €</td>
+    <td>5,60 €</td>
+  </tr>
+  <tr>
+    <td>12</td>
     <td>Πλακέτα Δοκιμών 400 Οπές - Άσπρη<br/>
   https://grobotronics.com/breadboard-400-tie-point-white-half-size.html</td>
     <td>1</td>
@@ -112,7 +129,7 @@ https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
     <td>3,20 €</td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>13</td>
     <td>Breadboard Jumper Wires Male to Male - Pack of 65</br>
     https://grobotronics.com/breadboard-jumper-wires-male-to-male-pack-of-65.html
     </td>
@@ -121,7 +138,7 @@ https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
     <td>3,60 €</td>
   </tr>
   <tr>
-    <td>12</td>
+    <td>14</td>
     <td>Jumper Wires 15cm Female to Male - Pack of 10<br/>
       https://grobotronics.com/jumper-wires-15cm-female-to-male-pack-of-10.html
   </td>
@@ -130,7 +147,7 @@ https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
     <td>3,60 €</td>
   </tr>
   <tr>
-    <td>13</td>
+    <td>15</td>
     <td>Jumper Wires 15cm Female to Female - Pack of 10<br/>
       https://grobotronics.com/jumper-wires-15cm-female-to-female-pack-of-10.html
   </td>
@@ -140,7 +157,7 @@ https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
   </tr>
   <tr>
     <td colspan="4">Συνολική Τιμή</td>
-    <td>200,40 €</td>
+    <td>211,00 €</td>
   </tr>
 </table>
 
