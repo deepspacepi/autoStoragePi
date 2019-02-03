@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=QetS5n2ZE5k&t=109s
     <td>Ονομασία</td>
     <td>Ποσότητα</td>
     <td>Τιμή Τεμαχίου</td>
-    <td>Συνολική Τιμής</td>
+    <td>Συνολική Τιμή</td>
   </tr>
   <tr>
     <td>1</td>
