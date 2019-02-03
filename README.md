@@ -139,7 +139,7 @@ https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
     <td>3,60 €</td>
   </tr>
   <tr>
-    <td colspan="3">Συνολική Τιμή</td>
+    <td colspan="4">Συνολική Τιμή</td>
     <td>200,40 €</td>
   </tr>
 </table>
