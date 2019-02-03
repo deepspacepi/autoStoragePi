@@ -52,18 +52,57 @@ https://www.youtube.com/watch?v=QetS5n2ZE5k&t=109s
     <td>85,80 €</td>
   </tr>
   <tr>
-    <td>Α/Α</td>
-    <td>Ονομασία</td>
-    <td>Ποσότητα</td>
-    <td>Τιμή €</td>
-    <td>Σύνο €</td>
+    <td>4</td>
+    <td>Dual Motor Driver Module L298N</br>
+    https://grobotronics.com/dual-motor-driver-module-l298n.html
+  </td>
+    <td>4</td>
+    <td>4,50 €</td>
+    <td>18,00 €</td>
   </tr>
   <tr>
-    <td>Α/Α</td>
-    <td>Ονομασία</td>
-    <td>Ποσότητα</td>
-    <td>Τιμή €</td>
-    <td>Σύνο €</td>
+    <td>5</td>
+    <td>Βηματικός Κινητήρας 0.35kg.cm 5V</br>
+    https://grobotronics.com/stepper-motor-0.35kg.cm.html
+    </td>
+    <td>3</td>
+    <td>2,50€</td>
+    <td>7,50 €</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Adafruit Αισθητήρας Απόστασης/Φωτός/RGB/Χειρονομίας - APDS9960<br/>
+      https://grobotronics.com/adafruit-apds9960-proximity-light-rgb-and-gesture-sensor.html
+  </td>
+    <td>1</td>
+    <td>9,50 €</td>
+    <td>9,50 €</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Πλακέτα Δοκιμών 400 Οπές - Άσπρη<br/>
+  https://grobotronics.com/breadboard-400-tie-point-white-half-size.html</td>
+    <td>1</td>
+    <td>3,20 €</td>
+    <td>3,20 €</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Breadboard Jumper Wires Male to Male - Pack of 65</br>
+    https://grobotronics.com/breadboard-jumper-wires-male-to-male-pack-of-65.html
+    </td>
+    <td>1</td>
+    <td>3,60 €</td>
+    <td>3,60 €</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Jumper Wires 15cm Female to Male - Pack of 10<br/>
+      https://grobotronics.com/jumper-wires-15cm-female-to-male-pack-of-10.html
+  </td>
+    <td>2</td>
+    <td>1,80 €</td>
+    <td>3,60 €</td>
   </tr>
   <tr>
     <td>Α/Α</td>
