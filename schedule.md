@@ -1,7 +1,7 @@
 <b>Προγραμματισμός Έργου</b>
 <table>
 <tr>
-<td>Εβδομάδες</td>
+<td></td>
 <td>1η</td>
 <td>2η</td>
 <td>3η</td>
@@ -17,25 +17,9 @@
 <td>13η</td>
 </tr>
 <tr>
-<td>E01</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>E02</td>
-<td></td>
-<td></td>
+<td>EΕ01</td>
+<td bgcolor="blue">Χ</td>
+<td bgcolor="blue">Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -49,9 +33,25 @@
 <td></td>
 </tr>
 <tr>
-<td>E03</td>
+<td>EΕ02</td>
 <td></td>
 <td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ΕE03</td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -65,28 +65,12 @@
 <td></td>
 </tr>
 <tr>
-<td>E04</td>
+<td>EΕ04</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>E05</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -97,29 +81,13 @@
 <td></td>
 </tr>
 <tr>
-<td>E06</td>
+<td>EΕ05</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>E07</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -129,13 +97,45 @@
 <td></td>
 </tr>
 <tr>
-<td>E08</td>
+<td>EΕ06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>EΕ07</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>EΕ08</td>
+<td></td>
+<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -145,13 +145,45 @@
 <td></td>
 </tr>
 <tr>
-<td>E09</td>
+<td>EΕ09</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>EΕ10</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>EΕ11</td>
+<td></td>
+<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
@@ -161,39 +193,71 @@
 <td></td>
 </tr>
 <tr>
-<td>E10</td>
+<td>EΕ12</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>E11</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>E12</td>
+<td>EΕ13</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ΕE14</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+<td></td>
+</tr>
+<tr>
+<td>EΕ15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>Χ</td>
+<td>Χ</td>
+<td>Χ</td>
+</tr>
+<tr>
+<td>ΕE16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -211,17 +275,22 @@
 </table>
 
 
-Ε01 - Σχεδίαση ερμαρίων σε 3D</br>
-Ε02 - Εγκατάσταση Raspberry Pi (Λειτουργικό Raspbian)</br>
-Ε03 - Εγκατάσταση Raspberry Pi (Apache Server, mySQL, PHPmyAdmin)</br>
-Ε04 - </br>
-Ε05 - </br>
-Ε06 - </br>
-Ε07 - </br>
-Ε08 - </br>
-Ε09 - </br>
-Ε10 - </br>
-Ε11 - </br>
-Ε12 - </br>
+<b>Ενότητες Εργασίας</b>
+
+ΕΕ01 - Εγκατάσταση Raspberry Pi (Λειτουργικό Raspbian)</br>
+ΕΕ02 - Εγκατάσταση Raspberry Pi (Apache Server, mySQL, PHPmyAdmin)</br>
+ΕΕ03 - Σχεδίαση ερμαρίων σε 3D</br>
+ΕΕ04 - Κατασκευή ερμαρίων</br>
+ΕΕ05 - Σχεδιαση Μηχανισμού Α σε 3D</br>
+ΕΕ06 - Κατασκευή Μηχανισμού Α</br>
+ΕΕ07 - Προγραμματισμός Μηχανισμού Α</br>
+ΕΕ08 - Σχεδιαση Μηχανισμού Β σε 3D</br>
+ΕΕ09 - Κατασκευή Μηχανισμού Β</br>
+ΕΕ10 - Προγραμματισμός Μηχανισμού Β</br>
+ΕΕ11 - Σχεδιαση Μηχανισμού Γ σε 3D</br>
+ΕΕ12 - Κατασκευή Μηχανισμού Γ</br>
+ΕΕ13 - Προγραμματισμός Μηχανισμού Γ</br>
+ΕΕ14 - Προγραμματισμός Εφαρμογής Κινητού</br>
+ΕΕ15 - Τελικές Διορθώσεις, Δοκιμές και Εκτίμηση</br>
 
 
