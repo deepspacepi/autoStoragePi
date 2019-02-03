@@ -15,6 +15,78 @@ https://www.youtube.com/watch?v=QetS5n2ZE5k&t=109s
 
 Απαιτούμενος εξοπλισμός είναι ο εξής :
 
+<table>
+  <tr>
+    <td>Α/Α</td>
+    <td>Ονομασία</td>
+    <td>Ποσότητα</td>
+    <td>Τιμή Τεμαχίου</td>
+    <td>Σύνολο Τιμής</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>
+      Raspberry Pi 3 - Model B+</br>
+      https://grobotronics.com/raspberry-pi-3-model-b-el.html
+    </td>
+    <td>1</td>
+    <td>41,90 €</td>
+    <td>41,90 €</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Κάρτα μνήμης microSDHC 16GB Class 10</br>
+    https://grobotronics.com/microsdhc-16gb-class-10-sandisk-ultra-sdsquar-sdsquar-016g-gn6ma.html
+    </td>
+    <td>1</td>
+    <td>8,90 €</td>
+    <td>8,90 €</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Pimoroni Raspberry Pi Zero W Starter Kit</br>
+    https://grobotronics.com/pimoroni-raspberry-pi-zero-w-starter-kit.html
+    </td>
+    <td>2</td>
+    <td>42,90 €</td>
+    <td>85,80 €</td>
+  </tr>
+  <tr>
+    <td>Α/Α</td>
+    <td>Ονομασία</td>
+    <td>Ποσότητα</td>
+    <td>Τιμή €</td>
+    <td>Σύνο €</td>
+  </tr>
+  <tr>
+    <td>Α/Α</td>
+    <td>Ονομασία</td>
+    <td>Ποσότητα</td>
+    <td>Τιμή €</td>
+    <td>Σύνο €</td>
+  </tr>
+  <tr>
+    <td>Α/Α</td>
+    <td>Ονομασία</td>
+    <td>Ποσότητα</td>
+    <td>Τιμή €</td>
+    <td>Σύνο €</td>
+  </tr>
+  <tr>
+    <td>Α/Α</td>
+    <td>Ονομασία</td>
+    <td>Ποσότητα</td>
+    <td>Τιμή €</td>
+    <td>Σύνο €</td>
+  </tr>
+  <tr>
+    <td>Α/Α</td>
+    <td>Ονομασία</td>
+    <td>Ποσότητα</td>
+    <td>Τιμή €</td>
+    <td>Σύνο €</td>
+  </tr>
+</table>
 Μηχανισμός Α
 - Ένα Raspberry Zero W
 - Ένα Step Motor
