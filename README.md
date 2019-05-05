@@ -4,14 +4,13 @@ Automatic storage machine based on Raspberry Pi
 Αυτόματο σύστημα αποθήκευσης βασισμένο σε Raspberry Pi
 
 Με την βοήθεια τριών Raspberry Pi και τον απαραίτητων αισθητήρων και κινητήρων θα δημιουργηθεί ένα αυτόματο σύστημα αποθήκευσης με τα εξής χαρακτηριστικά. Θα υλοποιηθού οι εξής αυτόματοι μηχανισμοί :
-- Μηχανισμός Α οποίος θα μεταφέρει τα επόμενα αντικείμενα προς τοποθέτηση σε μία κυλιόμενη ράγα.
+- Μηχανισμός Α οποίος θα μεταφέρει τα επόμενα αντικείμενα προς τοποθέτηση σε μία κυλιόμενη ράγα αλλά και θα παίρνει τα αντικείμενα που εξάγωνται από τον απθηκευτικό χώρο.
 - Μηχανισμός Β ο οποίο θα παιρνει το αντικείμενο από την ράγα και θα το τοποθετεί σε ένα κενό ράφι. Ο ίδιος μηχανισμός θα παίρνει το αντικείμενο που ζητείται από το ράφι και θα το τοποθετεί στην κυλιόμενη μπάρα εξόδου.
-- Μηχανισμός Γ με κυλιόμενη μπάρα ο οποίος θα παραλαμβάνει το αντικείμενο από τον μηχανισμό μεταφοράς. Επίσης θα δημιουργηθεί εφαρμογή για κινητό τηλέφωνο με την οποία θα γίνεται χειρισμός του συστήματος δηλαδή, εκκίνηση, τερματισμός και επιλογή αντικειμένου προς ανάκτηση.
 
 Ένα παράδειγμα του μηχανισμού Β φαίνεται στο επόμενο βίντεο του Youtube. Στην υλοποίηση μας η κατασκευή θα γίνει σε μικροκλίμακα.
 https://www.youtube.com/watch?v=QetS5n2ZE5k&t=109s
 
-Η υλοποίηση του προγραμματιστικού μέρους όσον αφορά τα Raspberry Pi θα γίνει σε γλώσσα Python η οποία είναι και πανελλαδικώς εξεταζόμενη στον Τομέα Πληροφορικής του ΕΠΑΛ. Η υλοποίηση του προγραμματιστικού μέρους για το κινητό τηλέφωνο θα γίνει σε AppInventor. Έχει επιλεγεί συνεργασία τριών Raspberry Pi για να πειραματιστούν οι μαθητές με την επικοινωνία και τον συγχρονισμό των συσκευών καθώς και με την δημιουργία μίας απλής βάσης δεδομένων όπου θα αποθηκευέται κάθε χρονική στιγμή η κατάσταση του αποθηκευτικού χώρου.
+Η υλοποίηση του προγραμματιστικού μέρους όσον αφορά τα Raspberry Pi θα γίνει σε γλώσσα Python η οποία είναι και πανελλαδικώς εξεταζόμενη στον Τομέα Πληροφορικής του ΕΠΑΛ. Η υλοποίηση του προγραμματιστικού μέρους για το κινητό τηλέφωνο θα γίνει σε AppInventor. Έχει επιλεγεί συνεργασία δύο Raspberry Pi για να πειραματιστούν οι μαθητές με την επικοινωνία και τον συγχρονισμό των συσκευών καθώς και με την δημιουργία μίας απλής βάσης δεδομένων όπου θα αποθηκευέται κάθε χρονική στιγμή η κατάσταση του αποθηκευτικού χώρου.
 
 Απαιτούμενος εξοπλισμός είναι ο εξής :
 
@@ -63,12 +62,14 @@ https://grobotronics.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi-mini
   </tr>
   <tr>
     <td>5</td>
-    <td>Dual Motor Driver Module L298N</br>
-    https://grobotronics.com/dual-motor-driver-module-l298n.html
-  </td>
-    <td>2</td>
-    <td>4,50 €</td>
-    <td>9,00 €</td>
+    <td>
+Adafruit 16-Channel PWM / Servo Bonnet for Raspberry Pi
+</br>
+https://grobotronics.com/adafruit-16-channel-pwm-servo-bonnet-for-raspberry-pi.html
+</td>
+    <td>1</td>
+    <td>12,50 €</td>
+    <td>12,50 €</td>
   </tr>
   <tr>
     <td>6</td>
@@ -90,84 +91,25 @@ https://grobotronics.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi-mini
   </tr>
   <tr>
     <td>8</td>
-    <td>Αισθητήρας Υπερήχων 2 - 400cm SR04<br/>
-      https://grobotronics.com/ultrasonic-sensor-sr04.html
-  </td>
+    <td>Γραμμικό Ρουλεμάν με Βάση - 10mm - SC10UU</br>
+    https://grobotronics.com/linear-bearing-platform-small-10mm-diameter-sc10uu.html
+    </td>
     <td>2</td>
-    <td>2,50 €</td>
-    <td>5,00 €</td>
+    <td>4,80 €</td>
+    <td>9,60 €</td>
   </tr>
   <tr>
     <td>9</td>
-    <td>Precision Shaft - D8mm x L500mm</br>
-https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
-    <td>1</td>
-    <td>6,20 €</td>
-    <td>6,20 €</td>
+    <td>Horizontal Axis Bracket - SHF10<br/>
+      https://grobotronics.com/horizontal-axis-bracket-shf10.html
+  </td>
+    <td>4</td>
+    <td>3,90 €</td>
+    <td>15,60 €</td>
   </tr>
   <tr>
     <td>10</td>
-    <td>Γραμμικό Ρουλεμάν με Βάση - 8mm - SC8UU</br>
-    https://grobotronics.com/linear-bearing-platform-small-8mm-diameter-sc8uu.html
-    </td>
-    <td>1</td>
-    <td>3,80 €</td>
-    <td>3,80 €</td>
-  </tr>
-  <tr>
-    <td>11</td>
-    <td>Linear Rail Shaft Guide/Support - 8mm Diameter - SK8</br>
-    https://grobotronics.com/linear-rail-shaft-guide-support-8mm-diameter-sk8.html</td>
-    <td>2</td>
-    <td>2,40 €</td>
-    <td>4,80 €</td>
-  </tr>
-  <tr>
-    <td>12</td>
-    <td>OpenBuilds Universal L Bracket - Double Natural</br>
-    https://grobotronics.com/openbuilds-universal-l-bracket-double.html</td>
-    <td>4</td>
-    <td>1,40 €</td>
-    <td>5,60 €</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>Πλακέτα Δοκιμών 400 Οπές - Άσπρη<br/>
-  https://grobotronics.com/breadboard-400-tie-point-white-half-size.html</td>
-    <td>1</td>
-    <td>3,20 €</td>
-    <td>3,20 €</td>
-  </tr>
-  <tr>
-    <td>14</td>
-    <td>Breadboard Jumper Wires Male to Male - Pack of 65</br>
-    https://grobotronics.com/breadboard-jumper-wires-male-to-male-pack-of-65.html
-    </td>
-    <td>1</td>
-    <td>3,60 €</td>
-    <td>3,60 €</td>
-  </tr>
-  <tr>
-    <td>15</td>
     <td>Jumper Wires 15cm Female to Male - Pack of 10<br/>
-      https://grobotronics.com/jumper-wires-15cm-female-to-male-pack-of-10.html
-  </td>
-    <td>2</td>
-    <td>1,80 €</td>
-    <td>3,60 €</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>Jumper Wires 15cm Female to Female - Pack of 10<br/>
-      https://grobotronics.com/jumper-wires-15cm-female-to-female-pack-of-10.html
-  </td>
-    <td>2</td>
-    <td>1,80 €</td>
-    <td>3,60 €</td>
-  </tr>
-  <tr>
-    <td>17</td>
-    <td>Pin Header 1x40 Male 2.54mm Long<br/>
       https://grobotronics.com/break-away-headers-long.html
   </td>
     <td>1</td>
@@ -175,8 +117,26 @@ https://grobotronics.com/precision-shaft-d8mm-x-l500mm.html</td>
     <td>0,25 €</td>
   </tr>
   <tr>
+    <td>11</td>
+    <td>Pin Header 1x40 Male Right Angle<br/>
+      https://grobotronics.com/pin-header-1x40-male-right-angle.html
+  </td>
+    <td>1</td>
+    <td>0,25 €</td>
+    <td>0,25 €</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Servo Micro 1.5kg.cm Continuous Rotation (Feetech FS90R)<br/>
+      https://grobotronics.com/servo-micro-1.5kg.cm-continuous-rotation-feetech-fs90r.html
+  </td>
+    <td>2</td>
+    <td>6,90 €</td>
+    <td>13,80 €</td>
+  </tr>
+  <tr>
     <td colspan="4">Συνολική Τιμή</td>
-    <td>229,95 €</td>
+    <td>187,20 €</td>
   </tr>
 </table>
 
